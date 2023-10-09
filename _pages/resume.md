@@ -2,6 +2,4 @@
 title: "Resume"
 permalink: /resume/
 ---
-+ [Resume as PDF][def]
-+
-[def]: /assets/Sarai-Hrinsin-Resume.pdf
++ [Resume PDF](https://SaraiHrinsinMA490.github.io/eportfolio-saraihrinsin/assets/Sarai-Hrinsin-Resume.pdf)
