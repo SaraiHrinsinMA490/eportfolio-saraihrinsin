@@ -35,7 +35,7 @@ customers
 Provide excellent customer service to ensure customer satisfaction and repeat business
 
 
-###Caregiver, Private Hire, Citronelle, AL
+### Caregiver, Private Hire, Citronelle, AL
 
 -Maintain accurate and up-to-date records of client's medical history and any changes in
 their condition
