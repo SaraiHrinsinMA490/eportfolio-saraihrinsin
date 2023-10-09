@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Sarai Hrinsin"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/avatar.jpg"
   bio    : "Welcome to my e-portfolio! I am a Mathematician and Finance enthusiast. I am passionate about applied mathematical technology, and hope to engage you through my projects."
   links:
     - label: "Website"
