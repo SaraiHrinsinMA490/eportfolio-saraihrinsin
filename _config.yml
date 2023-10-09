@@ -63,7 +63,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SaraiHrinsinMA490"
     - label: "Website"
-      icon: "fab fa-fw fa-website"
+      icon: "fab fa-fw fa-link"
       url: "https://saraihrinsinma490.github.io/eportfolio-saraihrinsin/"
 
 footer:
@@ -72,7 +72,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SaraiHrinsinMA490"
     - label: "Website"
-      icon: "fab fa-fw fa-website"
+      icon: "fab fa-fw fa-link"
       url: "https://saraihrinsinma490.github.io/eportfolio-saraihrinsin/"
 
 defaults:
