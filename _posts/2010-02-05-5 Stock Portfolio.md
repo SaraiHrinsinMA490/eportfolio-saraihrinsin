@@ -1,5 +1,5 @@
 ---
-title: "Post: 5 Stock Portfolio"
+title: "5 Stock Portfolio"
 categories:
   - Projects
 ---
