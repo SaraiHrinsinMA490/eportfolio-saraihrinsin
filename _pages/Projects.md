@@ -1,5 +1,5 @@
 ---
-permalink: /projects/
+permalink: /Projects/
 title: "Projects"
 ---
 ## Financial Spreadsheets
