@@ -16,13 +16,13 @@ Dedicated and results-oriented recent Mathematics college graduate with a strong
 
 ### Engineering Research Assistant, University of South Alabama, Mobile, AL
 
--Assist in developing and implementing engineering research projects to support the
+- Assist in developing and implementing engineering research projects to support the
 university's mission of advancing scientific knowledge and technological innovation.
 
--Execute laboratory experiments and analyze data to support engineering research projects
+- Execute laboratory experiments and analyze data to support engineering research projects
 at the University of South Alabama.
 
--Conduct literature reviews to gather information and identify knowledge gaps in the field of
+- Conduct literature reviews to gather information and identify knowledge gaps in the field of
 engineering research
 
 
