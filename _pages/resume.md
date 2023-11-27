@@ -6,6 +6,7 @@ permalink: /resume/
 
 ## Contact Information
 Sarai Hrinsin
+
 251-459-4969
 saraighrinsin@gmail.com
 
