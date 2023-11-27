@@ -4,7 +4,6 @@ categories:
     -Projects
 tags:
     -Projects
-    -Blog
     -Euler
 ---
 
