@@ -8,6 +8,7 @@ permalink: /resume/
 Sarai Hrinsin
 
 251-459-4969
+
 saraighrinsin@gmail.com
 
 ## Statement of Purpose
@@ -29,22 +30,22 @@ engineering research
 
 ### Sales Associate, Massage Envy, Mobile, AL
 
--Utilize persuasive communication skills to upsell additional products and services to
+- Utilize persuasive communication skills to upsell additional products and services to
 customers
 
--Implement sales strategies to increase revenue and achieve monthly sales targets
+- Implement sales strategies to increase revenue and achieve monthly sales targets
 Provide excellent customer service to ensure customer satisfaction and repeat business
 
 
 ### Caregiver, Private Hire, Citronelle, AL
 
--Maintain accurate and up-to-date records of client's medical history and any changes in
+- Maintain accurate and up-to-date records of client's medical history and any changes in
 their condition
 
--Coordinate with healthcare professionals, such as doctors and nurses, to ensure the proper
+- Coordinate with healthcare professionals, such as doctors and nurses, to ensure the proper
 and timely delivery of medical treatments and medications to clients
 
--Assist clients with daily activities such as meal preparation, grocery shopping, and light
+- Assist clients with daily activities such as meal preparation, grocery shopping, and light
 housekeeping to promote a clean and organized living environment
 
 ## Education History
@@ -57,12 +58,12 @@ AUG, 2015 - MAY, 2019
 High School Diploma, Faith Academy, Mobile, AL
 
 ## Professional Skills
--Financial Analysis
--Quantitative Finance
--Mathematical Modeling
--Statistical Analysis
--Financial Modeling
--Risk Management
+- Financial Analysis
+- Quantitative Finance
+- Mathematical Modeling
+- Statistical Analysis
+- Financial Modeling
+- Risk Management
 
 ## Spotlight Courses
 JAN, 2023 - MAY, 2023
