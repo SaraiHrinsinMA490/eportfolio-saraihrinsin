@@ -12,7 +12,8 @@ Sarai Hrinsin
 saraighrinsin@gmail.com
 
 ## Statement of Purpose
-Dedicated and results-oriented recent Mathematics college graduate with a strong passion for applied financial mathematics.Eager to leverage my mathematical skills, analytical mindset, and data-driven approach to contribute to the dynamic world of finance. Seeking a challenging position that allows me to apply my knowledge and gain valuable experience in quantitative finance.
+Aspiring Data Analyst with a passion for software development and a knack for problem-solving. Committed to delivering high-quality results, I thrive in dynamic environments where my technical skills and creativity can make a significant impact. With a solid educational background in Mathematics and Statistics, specializing in software development, I possess a unique blend of technical expertise and a deep understanding of programming languages. Seeking opportunities to contribute to innovative projects and collaborate with like-minded professionals to shape the future of the industry.
+
 
 ## Employment History
 
