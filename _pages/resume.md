@@ -2,7 +2,7 @@
 title: "Resume"
 permalink: /resume/
 ---
-+ [Resume PDF](https://SaraiHrinsinMA490.github.io/eportfolio-saraihrinsin/assets/Sarai-Hrinsin-Resume.pdf)
++ [Resume PDF](https://SaraiHrinsinMA490.github.io/eportfolio-saraihrinsin/assets/Sarai-Hrinsin-Resume(3).pdf)
 
 ## Contact Information
 Sarai Hrinsin
@@ -16,7 +16,7 @@ Dedicated and results-oriented recent Mathematics college graduate with a strong
 
 ## Employment History
 
-### Engineering Research Assistant, University of South Alabama, Mobile, AL
+### Research Assistant, University of South Alabama, Mobile, AL
 
 - Assist in developing and implementing engineering research projects to support the
 university's mission of advancing scientific knowledge and technological innovation.
@@ -36,26 +36,19 @@ customers
 - Implement sales strategies to increase revenue and achieve monthly sales targets
 Provide excellent customer service to ensure customer satisfaction and repeat business
 
-
-### Caregiver, Private Hire, Citronelle, AL
-
-- Maintain accurate and up-to-date records of client's medical history and any changes in
-their condition
-
-- Coordinate with healthcare professionals, such as doctors and nurses, to ensure the proper
-and timely delivery of medical treatments and medications to clients
-
-- Assist clients with daily activities such as meal preparation, grocery shopping, and light
-housekeeping to promote a clean and organized living environment
-
 ## Education History
-AUG, 2019 - PRESENT
-Bachelor's Degree in Mathematics and Statistics, Minor in Finance, University
-of South Alabama, Mobile, AL
+AUG, 2019 - DEC, 2023
+
+University of South Alabama, Mobile, AL
+
+Bachelor of Science in Mathematics and Statistics, Minor in Finance, Concentration in Software Development Specializing in Mathematical Cyberinfrastructure
 
 
 AUG, 2015 - MAY, 2019
-High School Diploma, Faith Academy, Mobile, AL
+
+Faith Academy, Mobile, AL
+
+High School Diploma
 
 ## Professional Skills
 - Financial Analysis
@@ -64,6 +57,17 @@ High School Diploma, Faith Academy, Mobile, AL
 - Statistical Analysis
 - Financial Modeling
 - Risk Management
+
+## Programming Languages
+- SQL
+- HTML
+- C++
+- JavaScript
+- Python
+- R
+- Matlab
+- .NET
+- Go
 
 ## Spotlight Courses
 JAN, 2023 - MAY, 2023
